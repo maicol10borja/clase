@@ -1,0 +1,20 @@
+/*selector univesal*/
+    *{ 
+    background-color: bisque ;
+     }
+
+/*selector de tipo ID*/
+
+#titulo { 
+    color: aqua;
+    text-align: right;
+ }
+ /*selector de tipo clase*/
+ .letra-grande{ 
+    color: green;
+ }
+
+/*selector de tipo clase*/
+.letra-grande1{ 
+color: red;
+}
